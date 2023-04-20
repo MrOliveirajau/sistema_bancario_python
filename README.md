@@ -1,2 +1,2 @@
-# sistema_bancario_python
+# Formação Python Developer
 Desafio de projeto DIO, criando um sistema bancário com Python
